@@ -15,4 +15,4 @@ npm run dev
 npm run build
 ```
 
-The production output is generated in `dist/client`.
+The production output is generated in `dist/client` and deployed through Cloudflare Pages.
